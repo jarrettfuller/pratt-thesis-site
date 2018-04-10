@@ -55,10 +55,10 @@ layout: default
 
   {% for post in site.posts %}
         <div class="index">
-        <a href="{{ post.url }}">
+        <a href="{{ site.github.url }}{{ post.url }}">
         <div class="student">
-            <div class="name">{{ site.github.url }}{{ post.name }}</div>
-            <div class="project">{{ site.github.url }}{{ post.title }}</div>
+            <div class="name">{{ post.name }}</div>
+            <div class="project">{{ post.title }}</div>
         </div>
     </a>
 </div>
@@ -73,10 +73,10 @@ layout: default
             {% for post in posts %}
               {% if post.tags contains c %}
 <div class="index">
-        <a href="{{ post.url }}">
+        <a href="{{ site.github.url }}{{ post.url }}">
         <div class="student">
-            <div class="name">{{ site.github.url }}{{ post.name }}</div>
-            <div class="project">{{ site.github.url }}{{ post.title }}</div>
+            <div class="name">{{ post.name }}</div>
+            <div class="project">{{ post.title }}</div>
         </div>
     </a>
 </div>
