@@ -181,15 +181,16 @@ left: 45%;
     color: grey;
 }
 .student .project {
-    width: 20%;
-}
-.student .name {
-    width: 60%;
+    width: 75%;
     padding-right: 10px;
-    line-height: 60px;
+    line-height: 55px;
     font-size: 60px;
     font-family: 'Poppins', Helvetica, sans-serif;
     text-transform: uppercase;
+}
+.student .name {
+    width: 20%;
+    font-size: 18px;
 }
 .preview .object:hover {
     background-color: lightgray;
@@ -243,14 +244,14 @@ left: 45%;
   width: 45%;
   margin-right: 0px;
   box-sizing: border-box;
-        font-size: 24px;
+  font-size: 24px;
+  font-family: 'Poppins', Helvetica, sans-serif;
+  text-transform: uppercase;
 }
 .name {
   width: 45%;
       padding-right: 50px;
-    font-weight: 600;
-        font-family: 'Poppins', Helvetica, sans-serif;
-    text-transform: uppercase;
+    font-weight: 400;
     font-size: 24px;
 }
 .images {
