@@ -1,25 +1,41 @@
 ---
 layout: image
 permalink: /class/gaia-hwang.html
-title: Thesis Title Here
+title: This is the title of my thesis
 name: Gaia Hwang
 tags:
 - Challenging Dominant Systems
 -
-discription: Memes are viruses. In 1976, British evolutionary biologist Richard Dawkins defined the term as a “unit of cultural transmission” that will “literally parasitize” the brain, “turning it into a vehicle for the meme’s propagation.” The same is true of internet memes. The online inside jokes, from LOLcats to Hipster Little Mermaid, have a way of sticking in our heads like stubborn colds. So if internet memes are viral in a very literal sense, what do you do when one infects your dog?
-image: "/images/memes.jpeg"
+discription: bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla This is my statement and it is going to change you all. bla bla bla bla bla bla bla blabla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
+
 ---
 
-<img src="https://picsum.photos/2000/1000">
-<div class="caption"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras at facilisis nisi, finibus ultrices turpis. Vivamus ut enim in neque consequat rutrum. Etiam leo eros, mollis non gravida at, tincidunt ut quam. Vivamus sem est, pharetra ut velit convallis, aliquam dictum arcu. Nunc viverra ante at ipsum ultricies, id dapibus arcu gravida. Pellentesque pulvinar justo vitae porttitor convallis. Morbi viverra auctor ex, quis auctor urna condimentum sed. In tempor tortor at efficitur congue.</div>
+<img src="/images/gaia_hwang_01.jpg">
+<img src="/images/gaia_hwang_02.jpg">
+<img src="/images/gaia_hwang_03.jpg">
+<img src="/images/gaia_hwang_04.jpg">
+<img src="/images/gaia_hwang_05.jpg">
+<div class="caption"><h5>Black Panther exploration</h5>
+Black Panther is a 2018 American superhero film based on the Marvel Comics character of the same name. Produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures, it is the eighteenth film in the Marvel Cinematic Universe (MCU). </div>
+<img src="/images/gaia_hwang_06.jpg">
+<div class="caption"><h5>Lion research Capstone project</h5>
+Felidae - Cats, Cheetahs, Lions, Tigers, Leopards. There are 36 species of cats in this family. Species in this family are found in all areas of the world, except for Australia and Antarctica. They vary in size from the domestic cat to the lion.</div>
 
-<div class="left"><img src="https://picsum.photos/900/1200"></div>
-<div class="right"><img src="https://picsum.photos/900/1200">
-    <div class="caption"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras at facilisis nisi, finibus ultrices turpis. Vivamus ut enim in neque consequat rutrum. Etiam leo eros, mollis non gravida at, tincidunt ut quam. Vivamus sem est, pharetra ut velit convallis, aliquam dictum arcu.</div>
+
+<img src="/images/gaia_hwang_07.jpg">
+<div class="right">
+    <div class="caption"><h5>Lion research Capstone example</h5></div>
 </div>
 
-<section class="clear"></section>
-
-<img src="https://picsum.photos/2000/1300">
-
-<div class="right"><img src="https://picsum.photos/900/1200">
+<img src="/images/gaia_hwang_08.jpg">
+<div class="right">
+    <div class="caption"><h5>Lion research Capstone research</h5></div>
+</div>
+<img src="/images/gaia_hwang_09.jpg">
+<div class="right">
+   <div class="caption"><h5>Lion research Capstone example</h5></div>
+</div>
+<img src="/images/gaia_hwang_10.jpg">
+<img src="/images/gaia_hwang_11.jpg">
+<img src="/images/gaia_hwang_12.jpg">
+<img src="/images/gaia_hwang_13.jpg">

@@ -1,7 +1,7 @@
 ---
 layout: image
 permalink: /class/santiago-piedrafita.html
-title: The Afterlife of Memes
+title: Instagram is a virtual stage
 name: Santiago Piedrafita
 tags: Space
 discription: Memes are viruses. In 1976, British evolutionary biologist Richard Dawkins defined the term as a “unit of cultural transmission” that will “literally parasitize” the brain, “turning it into a vehicle for the meme’s propagation.” The same is true of internet memes. The online inside jokes, from LOLcats to Hipster Little Mermaid, have a way of sticking in our heads like stubborn colds. So if internet memes are viral in a very literal sense, what do you do when one infects your dog?
