@@ -277,6 +277,11 @@ left: 45%;
     font-size: 14px;
     padding: 0 0 50px 0;
 }
+.images .caption h5 {
+  font-family: 'Poppins', Helvetica, sans-serif;
+  text-transform: uppercase;
+    font-size: 16px;
+}
 .images .left {
     width: 50%;
     padding-right: 25px;
@@ -407,21 +412,23 @@ nav li:first-child {
 }
 .student .project {
     width: 100%;
+        font-size: 36px;
+    line-height: 38px;
 }
 .student .name {
     width: 100%;
-    font-size: 36px;
-    line-height: 38px;
 }
 .blog-tags-list {
     padding: 15px 25px 25px 25px;
     }
+.blog-tags-item {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    }
 /*STUDENT PAGES */
 .object {
   padding: 150px 20px 20px 20px;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
+  display: block;
   width: 100%;
   max-width: 1600px;
   margin: auto;
@@ -429,6 +436,12 @@ nav li:first-child {
   font-size: 20px;
   font-size: 16px;
 }
+    .project {
+        width: 100%;
+    }
+    .name {
+        width: 100%;
+    }
 .images {
       padding: 20px 20px 20px 20px;
 }
@@ -440,6 +453,16 @@ nav li:first-child {
     width: 100%;
     font-size: 14px;
 }
+.images .left {
+    width: 100%;
+    float: none;
+    padding-right: 0px;
+    }
+.images .right {
+    width: 100%;
+    float: none;
+    padding-left: 0px;
+    }
 /*INTRODUCTION */
     .intro-text {
     width: 100%;
